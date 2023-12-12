@@ -10,8 +10,7 @@
             <a href="index.jsp"><li>HOME</li></a> 
             <a href="about.jsp"><li>ABOUT</li></a> 
             <a href="contack.jsp"><li>CONTACT</li></a> 
-            <a href=""><li>RESULT</li></a> 
-            <a href=""><li>MERITLIST</li></a> 
+           
             
         </ul>
     </nav>
